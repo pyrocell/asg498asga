@@ -1,0 +1,110 @@
+{
+  "Alicia": {
+    "name": "• Alicia Online",
+    "cheat": "AliciaCheat",
+    "status": "Online",
+    "version": "0.0.1.3-Release",
+    "features": "Change Speed, InstantWin, Carrots",
+    "processname": "Alicia",
+	"access": "Free",
+    "downloadlink": "https://raw.githubusercontent.com/pyrocell/asg498asga/main/ACaoC.exe"
+  },
+  "SSO": {
+    "name": "• Star Stable Online",
+    "cheat": "SSOCheat",
+    "status": "Offline",
+    "version": "0.1.9.1-Release",
+    "features": "Fly, Speed, Modding",
+    "processname": "SSOClient",
+	"access": "Free",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu"
+  },
+  "Bob": {
+    "name": "• Beast of Bermuda",
+    "cheat": "unkown",
+    "status": "Offline",
+    "version": "0.0.0.1-Release",
+    "features": "Change Dino, many more",
+    "processname": "unkown",
+	"access": "Admin Plus",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu"
+  },
+  "GI": {
+    "name": "• Genshin Impact",
+    "cheat": "GenshinImpactCheat",
+    "status": "Offline",
+    "version": "0.0.0.1-Beta",
+    "features": "Attack, Movement, Editor",
+    "processname": "GenshinImpact",
+	"access": "Free",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu"
+  },
+  "CSGOvAimware": {
+    "name": "• CSGO Aimware (Crack, not own)",
+    "cheat": "x86_ware",
+    "status": "Offline",
+    "version": "5.1.13",
+    "features": "Fully Free, VAC Bypass ON",
+    "processname": "csgo",
+	"access": "Free",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu"
+  },
+  "TROR": {
+    "name": "• The Ranch Of Rivershine",
+    "cheat": "TRORCheat",
+    "status": "Offline",
+    "version": "0.0.0.4-Beta",
+    "features": "Player, Movement, Editor, Many more",
+    "processname": "TheRanchOfRivershine-Win64-Shipping",
+	"access": "Free",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu/NoneTool/TRORCheat.exe"
+  },
+  "UnrealManager": {
+    "name": "• Unreal Manager",
+    "cheat": "AnonymCheats-UEExecuter",
+    "status": "Offline",
+    "version": "0.0.1.2-Release",
+    "features": "Edits, Reads, Aimbot, ESP",
+	"processname": "winver",
+	"access": "Free",
+    "downloadlink": ""
+  },
+  "EACBypass": {
+    "name": "• EAC Bypass",
+    "cheat": "EACBypass",
+    "status": "Offline",
+    "version": "0.0.0.5-Release",
+    "features": "Bypass Fully EAC (EasyAntiCheat)",
+	"processname": "winver",
+	"access": "Free",
+    "downloadlink": "https://urlaub-spass-freunde.deinsh.eu/NoneTool/EACBypass.exe"
+  },
+  "GuildWars2": {
+    "name": "• Guild Wars 2",
+    "cheat": "AnonymCheats-GW2",
+    "status": "Offline",
+    "version": "0.0.0.1-Beta",
+    "features": "Fly, Speed, Teleport, PvP Cheats, Custom Hotkeys, Many more",
+	"access": "Free",
+    "downloadlink": ""
+  },
+  "SCPCBM": {
+    "name": "• SCP: Containment Breach MP",
+    "cheat": "SCPCBMCheat",
+    "status": "Offline",
+    "version": "0.0.0.1-Beta",
+    "features": "Fly, Player, Teleport, Weapon, Custom Hotkeys, Many more",
+    "processname": "game",
+	"access": "Free",
+    "downloadlink": ""
+  },
+  "FinalFantasyXIV": {
+    "name": "• Final Fantasy XIV",
+    "cheat": "AnonymCheats-FFXIV",
+    "status": "Offline",
+    "version": "0.0.0.1-Beta",
+    "features": "Fly, Speed, Teleport, PvP Cheats, Custom Hotkeys, Many more",
+	"access": "Free",
+    "downloadlink": ""
+  }
+}
